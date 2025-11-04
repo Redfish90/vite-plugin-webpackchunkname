@@ -27,7 +27,7 @@
   "author": "CaptainLiao",
   "license": "MIT",
   "dependencies": {
-    "@rollup/plugin-alias": "*",
+    "@rollup/plugin-alias": "^5.1.0",
     "@rollup/pluginutils": "*",
     "es-module-lexer": "*",
     "magic-string": "*"
